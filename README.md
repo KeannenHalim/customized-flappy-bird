@@ -1,4 +1,10 @@
-https://keannenhalim.github.io/6182001007-KeannenRenaldoHalim-flappyBirdUas/
+# Customized Flappy Bird
 
-# technology
-cocos
+## About the Project
+> This is the final project for the "Fundamentals of Game Development" course.
+
+## Demo
+https://keannenhalim.github.io/customized-flappy-bird/
+
+## Technologies
+Cocos Creator, TypeScript
